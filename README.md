@@ -1,7 +1,5 @@
 # k6 Load Test
 
-## Overview
-
 This project uses [k6](https://k6.io/) for load testing APIs. Easily configure endpoints and run performance tests.
 
 ## How to Run

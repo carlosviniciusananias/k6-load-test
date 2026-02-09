@@ -5,7 +5,7 @@ const environments = {
         baseUrl: "http://localhost:3000",
     },
     staging: {
-        baseUrl: "https://beta-api.com",
+        baseUrl: "https://mapfre--americanasqa.myvtex.com",
     },
     prod: {
         baseUrl: "https://api.com",
